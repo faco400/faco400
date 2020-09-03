@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2> My name is Vinicius Vieira de Souza </h2>
-<p>I am a software engineering student at University of Brasília AKA UnB</p>
+<p>I am a software engineering student at University of Brasília AKA: UnB</p>
 <ul>📫 How to reach me:
     <li>vd.souza1999@gmail.com</li>
 </ul>
